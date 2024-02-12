@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "K9OXeJNlk5XaYjJB7zOAJUkLGqxzyN0TzrLhP1NQjpNoUEs7blepB/yAKnG7AIeDzj2zWFGDbDHzMj1W3Sr1Pg==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Desktop/COMP 208/API/CalendarApi/CalendarApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/ical.net/4.2.0/ical.net.4.2.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.aspnetcore.openapi/8.0.1/microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/mac/.nuget/packages/nodatime/3.0.0/nodatime.3.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.runtime.compilerservices.unsafe/4.7.1/system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
